@@ -1,0 +1,5 @@
+verdi \
+  -cov \
+  -covdir simv.vdb \
+  -workMode coverageAnalysis \
+  -line nocasedef

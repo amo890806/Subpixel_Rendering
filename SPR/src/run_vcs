@@ -1,0 +1,10 @@
+vcs \
+  +v2k \
+  +neg_tchk \
+  +define+CASE5 \
+  -debug_access+all \
+  -full64 \
+  -R \
+  -f "spr.vc" \
+  -cm line+tgl+fsm+cond+branch+assert \
+  -cm_name CASE5_PIC1
